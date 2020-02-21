@@ -1,0 +1,6 @@
+# fichiers
+config.yaml
+# repertoires
+/logs/*
+# sauf
+!/logs/.gitkeep
